@@ -1,0 +1,162 @@
+/* STYLE SECTIONING TAGS */
+
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    background-color: #094205;
+    text-align: center;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  main {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .home {
+    max-width: 400px; 
+    max-height: 250px;
+    text-align: center;
+  }
+  
+  #intro {
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 5%;
+  }
+  
+  #portfolio {
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+  
+  #bio {
+    color:#ffffff;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: double;
+    border-color: #ffffff;
+  }
+  
+  .port {
+    display: flex;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 2em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15%;
+    padding-right: 15%;
+    column-gap: 10%;
+  }
+  
+  .docs {
+    display: flex;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15%;
+    padding-right: 15%;
+    column-gap: 10%;
+  }
+  
+  .desc {
+    color: #ffffff;
+    text-align: right;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 2em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .project {
+    max-width: 375px;
+    max-height: 195px;
+  }
+  
+  .cert {
+    max-width: 750px;
+    max-height: 390px;
+    align-items: center;
+    margin-left: 6em;
+    column-gap: 5%;
+    border-style: solid;
+    border-color: #ff3A20;
+  }
+  
+  #cert {
+    max-width: 750px;
+    max-height: 390px;
+    align-items: center;
+    margin-left: 8em;
+    column-gap: 5%;
+    border-style: solid;
+    border-color: #ff3A20;
+  }
+  /* STYLE TEXT */
+  
+  h1 {
+    color:#ffffff;
+    font-family:'Times New Roman';
+    text-align:center;
+  }
+  
+  ul {
+    list-style-type: none;
+    background-color: #ffffff;
+    overflow: hidden;
+    padding: 1em;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  li a {
+    text-decoration: none;
+    color: #0e480a;
+    font-size: 1.3em;
+    padding: 1em;
+  }
+  
+  li a:hover {
+    background-color: #FF3A20;
+  }
+  /* STYLE IMAGES */
+  
+  /* STYLE NAV BAR */
+  
