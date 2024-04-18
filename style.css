@@ -26,7 +26,11 @@
     max-height: 250px;
     text-align: center;
   }
-  
+
+  a:visited {
+      color: pink;
+  }
+
   #intro {
     display: flex;
     align-items: center;
@@ -138,14 +142,15 @@
   
   li a {
     text-decoration: none;
-    color: #5B7553;
+    color: pink;
     font-size: 1.3em;
     padding: 1em;
   }
   
   li a:hover {
-    background-color: #8EB897;
+    background-color: #0f1a20;
   }
+
   /* STYLE IMAGES */
   
   /* STYLE NAV BAR */
