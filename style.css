@@ -65,6 +65,14 @@
     border-style: double;
     border-color: #ffffff;
   }
+
+  #logo {
+    max-width: 750px;
+    max-height: 390px;
+    align-items: center;
+    text-align: center;
+    column-gap: 5%;
+  }
   
   .port {
     display: flex;
