@@ -27,10 +27,6 @@
     text-align: center;
   }
 
-  a:visited {
-      color: pink;
-  }
-
   #intro {
     display: flex;
     align-items: center;
@@ -73,6 +69,8 @@
     text-align: center;
     column-gap: 5%;
   }
+
+  /* STYLE IMAGES */
   
   .port {
     display: flex;
@@ -136,7 +134,13 @@
     font-family:'Helvetica';
     text-align:center;
   }
-  
+
+  a:visited {
+      color: pink;
+  }
+
+  /* STYLE NAV BAR */
+
   ul {
     list-style-type: none;
     background-color: #392d3b;
@@ -159,7 +163,7 @@
     background-color: #0f1a20;
   }
 
-  /* STYLE IMAGES */
-  
-  /* STYLE NAV BAR */
+
+
+
   
