@@ -138,6 +138,10 @@
   }
 
   a:visited {
+      color: pink;
+  }
+
+  #bio a:visited {
       color: white;
   }
 
@@ -169,5 +173,6 @@
 
 
   
+
 
 
