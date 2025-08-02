@@ -13,6 +13,7 @@
   
   header {
     text-align: center;
+    font-size: 3em;
   }
   
   main {
@@ -50,6 +51,7 @@
   #bio {
     color: #0f1a20;
     text-align: center;
+    font-size: 1.5em;
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 1em;
@@ -59,7 +61,7 @@
     padding-left: 5px;
     padding-right: 5px;
     border-style: double;
-    background-color: #ffffff;
+    background-color: #C1C4C5;
   }
 
   #logo {
@@ -136,7 +138,7 @@
   }
 
   a:visited {
-      color: pink;
+      color: white;
   }
 
   /* STYLE NAV BAR */
@@ -155,7 +157,7 @@
   li a {
     text-decoration: none;
     color: pink;
-    font-size: 1.3em;
+    font-size: 1.7em;
     padding: 1em;
   }
   
@@ -167,4 +169,5 @@
 
 
   
+
 
