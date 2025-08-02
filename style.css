@@ -70,6 +70,8 @@
     align-items: center;
     text-align: center;
     column-gap: 5%;
+    border-style: solid;
+    border-color: #0f1a20;
   }
 
   /* STYLE IMAGES */
@@ -118,6 +120,8 @@
   .project {
     max-width: 375px;
     max-height: 195px;
+    border-style: solid;
+    border-color: #0f1a20;
   }
   
   .cert {
@@ -169,10 +173,14 @@
     background-color: #0f1a20;
   }
 
+  .port a:hover {
+      border-color: white;
+
 
 
 
   
+
 
 
 
