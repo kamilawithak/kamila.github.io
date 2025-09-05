@@ -136,25 +136,10 @@
   }
 
 
-  .desc {
-    color: #ffffff;
-    text-align: center;
-    font-size: 1.8em;
-    margin-top: 2em;
-    margin-bottom: 1em;
-    margin-left: .8em;
-    margin-right: .8em;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 3%;
-    padding-right: 3%;
-  }
-
-
-/*  @media screen and (min-width: 769px) {
+  @media screen and (min-width: 769px) {
     .desc {
     color: #ffffff;
-    text-align: center;
+    text-align: left;
     font-size: 1.8em;
     margin-top: 2em;
     margin-bottom: 1em;
@@ -169,19 +154,19 @@
 
   /* STYLE FOR MOBILE DEVICES*/
 
-   /*@media screen and (max-width: 768px) {
+   @media screen and (max-width: 768px) {
     .desc {
     color: #ffffff;
-    text-align: center;
-    font-size: 1.8em;
+    text-align: right;
+    font-size: 30pt;
     margin-top: 2em;
     margin-bottom: 1em;
-    margin-left: .8em;
-    margin-right: .8em;
+    margin-left: .2em;
+    margin-right: .2em;
     padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 3%;
-    padding-right: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
     }
    }
 
@@ -213,6 +198,7 @@
 
 
   
+
 
 
 
