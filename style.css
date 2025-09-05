@@ -19,8 +19,8 @@
   main {
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
   .home {
     max-width: 400px; 
@@ -106,16 +106,16 @@
   
   .desc {
     color: #ffffff;
-    text-align: right;
+    text-align: center;
     font-size: 1.2em;
     margin-top: 2em;
     margin-bottom: 1em;
-    margin-left: 1em;
-    margin-right: 2em;
+    margin-left: .8em;
+    margin-right: .8em;
     padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
   }
   
   .project {
@@ -177,6 +177,7 @@
 
 
   
+
 
 
 
