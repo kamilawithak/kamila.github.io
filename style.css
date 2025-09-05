@@ -104,20 +104,6 @@
     column-gap: 10%;
   }
   
-  .desc {
-    color: #ffffff;
-    text-align: center;
-    font-size: 1.8em;
-    margin-top: 2em;
-    margin-bottom: 1em;
-    margin-left: .8em;
-    margin-right: .8em;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 3%;
-    padding-right: 3%;
-  }
-  
   .project {
     max-width: 375px;
     max-height: 195px;
@@ -149,6 +135,56 @@
       color: white;
   }
 
+
+  .desc {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: .8em;
+    margin-right: .8em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
+
+/*  @media screen and (min-width: 769px) {
+    .desc {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: .8em;
+    margin-right: .8em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3%;
+    padding-right: 3%;
+    }
+  }
+
+  /* STYLE FOR MOBILE DEVICES*/
+
+   /*@media screen and (max-width: 768px) {
+    .desc {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: .8em;
+    margin-right: .8em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3%;
+    padding-right: 3%;
+    }
+   }
+
   /* STYLE NAV BAR */
 
   ul {
@@ -177,6 +213,7 @@
 
 
   
+
 
 
 
