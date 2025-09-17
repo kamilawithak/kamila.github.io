@@ -126,8 +126,9 @@
   }
   
   .project {
-    max-width: 375px;
-    max-height: 195px;
+    max-width: 25em;
+    max-height: 13em;
+    align-items: center;
   }
   
   .cert {
@@ -219,6 +220,7 @@
 
 
   
+
 
 
 
