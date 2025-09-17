@@ -65,8 +65,8 @@
   }
 
   #logo {
-    max-width: 20em;
-    max-height: 10.4em;
+    max-width: 25em;
+    max-height: 13em;
     align-items: center;
     text-align: center;
     column-gap: 5%;
@@ -134,8 +134,8 @@
   }
   
   .cert {
-    max-width: 20em;
-    max-height: 10.4em;
+    max-width: 30em;
+    max-height: 15.6em;
     align-items: center;
     text-align: center;
     column-gap: 5%;
@@ -223,6 +223,7 @@
 
 
   
+
 
 
 
