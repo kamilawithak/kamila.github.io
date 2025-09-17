@@ -197,6 +197,7 @@
   ul {
     list-style-type: none;
     background-color: #392d3b;
+    width: 100%;
     overflow: hidden;
     padding: 1em;
   }
@@ -220,6 +221,7 @@
 
 
   
+
 
 
 
