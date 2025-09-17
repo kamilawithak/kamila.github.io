@@ -76,20 +76,39 @@
 
   /* STYLE IMAGES */
   
-  .port {
-    display: flex;
-    align-items: center;
-    margin-top: 2em;
-    margin-bottom: 1em;
-    margin-left: 2em;
-    margin-right: 2em;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 15%;
-    padding-right: 15%;
-    column-gap: 10%;
-  }
   
+  @media screen and (min-width: 769px) {
+    .port {
+      display: flex;
+      align-items: center;
+      margin-top: 2em;
+      margin-bottom: 1em;
+      margin-left: 2em;
+      margin-right: 2em;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 15%;
+      padding-right: 15%;
+      column-gap: 10%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .port {
+      display: grid;
+      align-items: center;
+      margin-top: 2em;
+      margin-bottom: 1em;
+      margin-left: 2em;
+      margin-right: 2em;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 15%;
+      padding-right: 15%;
+      column-gap: 10%;
+    }
+  }
+
   .docs {
     align-items: center;
     text-align: center;
@@ -198,6 +217,7 @@
 
 
   
+
 
 
 
