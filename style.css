@@ -126,8 +126,8 @@
   }
   
   .project {
-    max-width: 25em;
-    max-height: 13em;
+    max-width: 20em;
+    max-height: 10.4em;
     align-items: center;
   }
   
@@ -180,7 +180,7 @@
     .desc {
     color: #ffffff;
     text-align: center;
-    font-size: 30pt;
+    font-size: 15pt;
     margin-top: 2em;
     margin-bottom: 1em;
     margin-left: .2em;
@@ -221,6 +221,7 @@
 
 
   
+
 
 
 
