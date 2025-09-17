@@ -179,7 +179,7 @@
    @media screen and (max-width: 768px) {
     .desc {
     color: #ffffff;
-    text-align: right;
+    text-align: center;
     font-size: 30pt;
     margin-top: 2em;
     margin-bottom: 1em;
@@ -220,6 +220,7 @@
 
 
   
+
 
 
 
