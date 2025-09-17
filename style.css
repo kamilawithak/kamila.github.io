@@ -129,6 +129,8 @@
     max-width: 20em;
     max-height: 10.4em;
     align-items: center;
+    text-align: center;
+    column-gap: 5%;
   }
   
   .cert {
@@ -221,6 +223,7 @@
 
 
   
+
 
 
 
