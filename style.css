@@ -81,6 +81,7 @@
     .port {
       display: flex;
       align-items: center;
+      text-align: center;
       margin-top: 2em;
       margin-bottom: 1em;
       margin-left: 2em;
@@ -99,6 +100,7 @@
       grid-column: 1;
       grid-row: 1;
       align-items: center;
+      text-align: center;
       margin-top: 2em;
       margin-bottom: 1em;
       margin-left: 2em;
@@ -181,6 +183,7 @@
    @media screen and (max-width: 768px) {
     .desc {
     color: #ffffff;
+    align-items: center;
     text-align: center;
     font-size: 15pt;
     margin-top: 2em;
@@ -223,6 +226,7 @@
 
 
   
+
 
 
 
