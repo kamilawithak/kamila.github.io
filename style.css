@@ -153,6 +153,13 @@
     font-size: 3em;
   }
 
+  p {
+    color:#ffffff;
+    font-family:'Helvetica';
+    text-align: center;
+    font-size: 1.8em;
+  }
+
   a:visited {
       color: pink;
   }
@@ -226,6 +233,7 @@
 
 
   
+
 
 
 
