@@ -121,6 +121,12 @@
     }
   }
 
+  .conImg {
+    align-items: center;
+    max-width: 1em;
+    max-height: 1.25em;
+  }
+
   .docs {
     align-items: center;
     text-align: center;
@@ -262,6 +268,7 @@
 
 
   
+
 
 
 
