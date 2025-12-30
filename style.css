@@ -168,6 +168,20 @@
     font-size: 1em;  
   }
 
+  .contact {
+    font-family:'Helvetica';
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: .8em;
+    margin-right: .8em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
   p {
     color:#ffffff;
     font-family:'Helvetica';
@@ -248,6 +262,7 @@
 
 
   
+
 
 
 
