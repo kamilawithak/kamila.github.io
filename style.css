@@ -38,7 +38,7 @@
     padding-bottom: 1em;
   }
   
-  #portfolio {
+  .pageTop {
     display: flex;
     align-items: center;
     column-gap: 50px;
@@ -247,6 +247,7 @@
 
 
   
+
 
 
 
