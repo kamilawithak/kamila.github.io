@@ -153,6 +153,13 @@
     font-size: 3em;
   }
 
+  h2 {
+    color:#ffffff;
+    font-family:'Helvetica';
+    text-align: center;
+    font-size: 1.5em;  
+  }
+
   p {
     color:#ffffff;
     font-family:'Helvetica';
@@ -233,6 +240,7 @@
 
 
   
+
 
 
 
