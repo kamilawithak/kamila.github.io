@@ -280,10 +280,22 @@
     background-color: #0f1a20;
   }
 
+  @media screen and (max-width: 768px) {
+    li {
+      display: block;
+    }
+
+    li a {
+      display: block;
+      padding: 0.5em;
+    }
+  }
+
 
 
 
   
+
 
 
 
